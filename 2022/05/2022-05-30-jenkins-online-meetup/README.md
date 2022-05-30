@@ -22,3 +22,6 @@ See the slides [here](./slides.pdf)
 
 - [Meetup page](https://community.cd.foundation/events/details/cd-foundation-jenkins-presents-kickstarting-ci-best-practices-with-jenkins-in-autonomous-teams-online-meetup/)
 
+## Social Media Cover
+
+![Meetup opengraph](./opengraph.png)
